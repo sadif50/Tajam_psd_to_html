@@ -1,0 +1,227 @@
+@media (max-width: 575.98px) {
+    .stick_nav {
+        background: linear-gradient( 0deg, rgb(9,5,47) 0%, rgb(49,29,94) 100%);
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .nav-item {
+        border-bottom: 1px solid #3c6d9d;
+    }
+    .navbar-nav .nav-item:nth-of-type(1) {
+        border-top: 1px solid #3c6d9d;
+    }
+    .navbar-light .navbar-toggler {
+        background: transparent;
+        border-radius: 0;
+        border: 1px solid #3c6d9d;
+    }
+    .banner-text {
+        padding: 115px 0 105px 0;
+    }
+    .banner-text h2 {
+        font-size: 22px;
+    }
+    .banner-text p {
+        font-size: 12px;
+    }
+    .about-text h2 {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .about-text p {
+        margin-bottom: 10px;
+    }
+    .about-text a {
+        display: block;
+        text-align: center;
+    }
+    #video-part {
+        padding: 100px 0;
+    }
+    .service-box {
+        padding-top: 50px;
+    }
+    .top-project-head {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .top-project-text {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .project_button a {
+        display: block;
+    }
+    .contact-part .form-group a {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .contact-part h3, .client-part h3 {
+        text-align: center;
+    }
+    .client-part {
+        text-align: center;
+    }
+    .footer-last {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .footer-middle {
+        padding-top: 50px;
+    }
+    .main-footer {
+        padding: 45px 0;
+        text-align: center;
+    }
+    .foot-text {
+        padding: 0 0 45px 0;
+        text-align: center;
+    }
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .stick_nav {
+        background: linear-gradient( 0deg, rgb(9,5,47) 0%, rgb(49,29,94) 100%);
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .nav-item {
+        border-bottom: 1px solid #3c6d9d;
+    }
+    .navbar-nav .nav-item:nth-of-type(1) {
+        border-top: 1px solid #3c6d9d;
+    }
+    .navbar-light .navbar-toggler {
+        background: transparent;
+        border-radius: 0;
+        border: 1px solid #3c6d9d;
+    }
+    .banner-text {
+        padding: 115px 0 105px 0;
+    }
+    .banner-text h2 {
+        font-size: 22px;
+    }
+    .banner-text p {
+        font-size: 12px;
+    }
+    .about-text h2 {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .about-text p {
+        margin-bottom: 10px;
+    }
+    .about-text a {
+        display: block;
+        text-align: center;
+    }
+    #video-part {
+        padding: 100px 0;
+    }
+    .service-box {
+        padding-top: 50px;
+    }
+    .project_button a {
+        display: block;
+    }
+    .contact-part .form-group a {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .contact-part h3, .client-part h3 {
+        text-align: center;
+    }
+    .client-part {
+        text-align: center;
+    }
+    .footer-last {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .footer-middle {
+        padding-top: 50px;
+    }
+    .main-footer {
+        padding: 45px 0;
+        text-align: center;
+    }
+    .foot-text {
+        padding: 0 0 45px 0;
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .stick_nav {
+        background: linear-gradient( 0deg, rgb(9,5,47) 0%, rgb(49,29,94) 100%);
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .nav-item {
+        border-bottom: 1px solid #3c6d9d;
+    }
+    .navbar-nav .nav-item:nth-of-type(1) {
+        border-top: 1px solid #3c6d9d;
+    }
+    .navbar-light .navbar-toggler {
+        background: transparent;
+        border-radius: 0;
+        border: 1px solid #3c6d9d;
+    }
+    .banner-text {
+        padding: 115px 0 105px 0;
+    }
+    .about-text h2 {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .about-text p {
+        margin-bottom: 10px;
+    }
+    .about-text a {
+        display: block;
+        text-align: center;
+    }
+    #video-part {
+        padding: 100px 0;
+    }
+    .service-box {
+        padding-top: 50px;
+    }
+    .project_button a {
+        display: block;
+    }
+    .contact-part .form-group a {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .contact-part h3, .client-part h3 {
+        text-align: center;
+    }
+    .client-part {
+        text-align: center;
+    }
+    .footer-last {
+        text-align: center;
+        padding-top: 50px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) { 
+
+}
